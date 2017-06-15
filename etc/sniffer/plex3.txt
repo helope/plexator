@@ -1,0 +1,8 @@
+@ip				nom_plex3
+xxx.xxx.xxx.xxx nom_plex3
+xxx.xxx.xxx.xxx nom_plex3
+xxx.xxx.xxx.xxx nom_plex3
+xxx.xxx.xxx.xxx nom_plex3
+xxx.xxx.xxx.xxx nom_plex3
+xxx.xxx.xxx.xxx nom_plex3
+xxx.xxx.xxx.xxx nom_plex3

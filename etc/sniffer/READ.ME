@@ -1,0 +1,16 @@
+BASE_DONNEES_RRD & GRAPH_RRDTOOLS
+pour ajouter ou retirer un plex3, il suffit de modifier plex3.txt et plex3_nom.txt
+puis d'executer conf.sh
+à noter que la ligne vide au début du fichier plex3.txt est importante car sinon, le sniffer ne prends pas en compte le premier plex de la liste
+
+
+le fichier généré base_conf contient les lignes de commandes pour créer la base de données rrd
+le fichier graph conf contient le code à mettre dans genere_graph_rrdtools.bash, pour généré les graphs
+le contenu du fichier pline doit être mit dans la ligne rrd_update du sniffer
+le contenu du fichier compteur_line doit être mit dans la ligne rrd_update du sniffer
+
+SNIFFEUR
+liste des plex3 et de leurs adresses ip dans plex3.txt
+le sniffer ne filtre que ces plex3, les autres n'auront pas leurs données mises à jour
+
+

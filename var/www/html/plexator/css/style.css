@@ -1,0 +1,100 @@
+body{
+	font-size: 16px;
+}
+
+header{
+	margin-top:0px;
+	padding-top:60px;
+	height: 170px;
+	background-color: #4f538a;
+}
+#accueil{
+
+}
+#titre{
+	font-size: 50px;
+	margin-top: 0px;
+	color: white;
+}
+#hidden_title{
+	font-size: 40px;
+	margin-top: 0px;
+	color: #49538a;
+	-moz-user-select: -moz-none;
+}
+
+li{
+	list-style: none;
+}
+span{
+	float: left;
+	font-size: 18px;
+	margin-right: 30%;
+}
+footer{
+	float: left;
+	width: 100%;
+}
+#footer{
+	float: right;
+	width: 80%;
+}
+.ul_menu{
+	width: 250px;
+}
+#menu{
+	background-color: #eeeeee;
+	width: 220px;
+	float:left;
+	padding: 0 0 20px;
+}
+
+.glyphicon{
+	margin-top: 5px;
+}
+
+.deb{
+	margin: 10px 10px 10px 10px;
+	position: relative;
+	width: 100%;
+	float: left;
+}
+.lien_img{
+	width: 70%;
+}
+.graph{
+	width: 90%;
+	height: 200px;
+}
+
+.plex{
+	float: left;
+	width: 70%;
+}
+.title_plex{
+	float: left;
+	margin-bottom: 5px;
+	margin-left: 35%;
+	font-size: 20px;
+}
+.data{
+	float: left;
+	width: 95%;
+	margin-left: 5%;
+}
+#manage{
+	float: right;
+	width: 13%;
+	margin-top: 2%;
+	margin-right: 2%;
+}
+#up{
+	width: 19%;
+	position: fixed;
+	right: 0.5%;
+	top: 70%;
+}
+#up.a{
+	float: left;
+}
+
